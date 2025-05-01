@@ -1,6 +1,6 @@
 # Vehicle Detection, Classification and Speed Estimation System
 
-![Vehicle Detection System UI](screenshots/main_ui.png)
+![Vehicle Detection System UI](screenshots/ui.png)
 
 A modern computer vision system that detects, classifies, tracks, and estimates the speed of vehicles in traffic videos. Built with YOLOv8 and Faster R-CNN, this project provides a comprehensive solution for traffic monitoring and analysis.
 
@@ -82,7 +82,7 @@ python app.py
 5. Click "Start Detection" to begin processing
 6. View real-time statistics and download processed video when complete
 
-![ROI Selection](screenshots/roi_selection.png)
+![ROI Selection](screenshots/roi.png)
 
 
 
@@ -104,7 +104,7 @@ The system was evaluated using various traffic videos with known vehicle counts:
 - **Speed Estimation Error**: Average of 6% compared to ground truth
 - **Processing Performance**: Up to 8.5 FPS with optimizations enabled
 
-![Results Dashboard](screenshots/results_dashboard.png)
+
 
 ## Future Improvements
 
