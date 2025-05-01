@@ -17,7 +17,7 @@ A modern computer vision system that detects, classifies, tracks, and estimates 
 
 ## Demo
 
-![Vehicle Detection Demo](screenshots/demo.gif)
+![Vehicle Detection Demo](screenshots/output.gif)
 
 ## System Architecture
 
