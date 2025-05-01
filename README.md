@@ -82,7 +82,7 @@ python app.py
 5. Click "Start Detection" to begin processing
 6. View real-time statistics and download processed video when complete
 
-![ROI Selection](screenshots/roi_selection.png)
+![ROI Selection](screenshots/roi.png)
 
 
 
@@ -104,7 +104,7 @@ The system was evaluated using various traffic videos with known vehicle counts:
 - **Speed Estimation Error**: Average of 6% compared to ground truth
 - **Processing Performance**: Up to 8.5 FPS with optimizations enabled
 
-![Results Dashboard](screenshots/results_dashboard.png)
+
 
 ## Future Improvements
 
