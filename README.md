@@ -1,6 +1,6 @@
 # Vehicle Detection, Classification and Speed Estimation System
 
-![Vehicle Detection System UI](screenshots/main_ui.png)
+![Vehicle Detection System UI](screenshots/ui.png)
 
 A modern computer vision system that detects, classifies, tracks, and estimates the speed of vehicles in traffic videos. Built with YOLOv8 and Faster R-CNN, this project provides a comprehensive solution for traffic monitoring and analysis.
 
